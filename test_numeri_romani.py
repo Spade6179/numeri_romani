@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import unittest, re
 from hypothesis import given
 from hypothesis.strategies import integers, text
